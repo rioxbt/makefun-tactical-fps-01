@@ -1,0 +1,6 @@
+[
+  { "name": "1-silo-hold.jpg", "query": "?shot=silo&seed=1", "what": "Ashfall pushing Silo (site A) — rifle, tracer, kill feed, HUD" },
+  { "name": "2-depot-charge.jpg", "query": "?shot=depot&seed=1", "what": "The charge armed at Depot (site B) with Yardwatch cutting it" },
+  { "name": "3-yard-shop.jpg", "query": "?shot=shop&seed=1", "what": "The between-round yard shop: weapons, armour, cutter and grenades" },
+  { "name": "4-scores.jpg", "query": "?shot=scores&seed=1", "what": "The scoreboard over a live round" }
+]

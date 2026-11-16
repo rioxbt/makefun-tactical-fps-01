@@ -1,0 +1,5 @@
+# the hand-in folder main.ts writes, and scratch from the tools
+out/
+out2/
+node_modules/
+*.log
